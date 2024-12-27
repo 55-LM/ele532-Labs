@@ -1,2 +1,2 @@
-# ELE532-Labs
+# ele532-Labs
 Lab assignments that were completed for the course ELE532 - Signals & Systems I
